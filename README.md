@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @CodeQuillCrafts
+### 👋 Hi, I’m @CodeQuillSkills
 
 ### 👀 Interests
 I'm passionate about a variety of topics within the tech and creative realms.
@@ -13,9 +13,9 @@ I'm eager to collaborate on innovative projects that combine technology and crea
 
 ### 📫 How to Reach Me
 Feel free to connect with me through:
-- **Email:** codequillcrafts@gmail.com
+- **Email:** codequillskills@gmail.com
 - **LinkedIn:** [ShivamGupta11122004](https://linkedin.com/in/shivamgupta11122004)
-- **GitHub:** [CodeQuillCrafts](https://github.com/CodeQuillCrafts)
+- **GitHub:** [CodeQuillSkills](https://github.com/CodeQuillSkills)
 
 ---
 
